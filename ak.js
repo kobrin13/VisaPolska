@@ -19,7 +19,7 @@ var ver = 'v13'
 
                                 //к//о//д//и//н//г//
 var site = 'https://rejestracja.by.e-konsulat.gov.pl/'
-    ,siteRegBlank = site + 'Uslugi/RejestracjaTerminu.aspx?IDUSLUGI=8&IDPlacowki=0'
+    ,siteRegBlank = site + 'Uslugi/RejestracjaTerminu.aspx?IDUSLUGI=8&IDPlacowki=*'
     ,siteForm  = site + 'Wiza/FormularzWiza.aspx?tryb=REJ'
     ,siteFormP = site + 'Wiza/FormularzWiza.*'
 
