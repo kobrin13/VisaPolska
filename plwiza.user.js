@@ -34,4 +34,4 @@ plwiza_ak.setAttribute('src' ,localStorage['plwizadev'] ?
 document.head.appendChild(plwiza_ak)
 plwiza_ak = undefined
 
-//kobrin13: visapolska ends here
+//kobrin13: visapolska ends here.
